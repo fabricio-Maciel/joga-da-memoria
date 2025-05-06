@@ -11,6 +11,10 @@ const emojis = [
   "👽",
   "💩",
   "💩",
+  "🐼",
+  "🐼",
+  "🥸",
+  "🥸",
 ];
 
 // array que irá armazenar as cartas clicadas
